@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Salmabuba
 - 👀 I’m interested in being a Blockchain literate
 - 🌱 I’m currently learning in domineum academy 
-- 💞️ I’m looking to collaborate on the agenda 
+- 💞️ I am looking forward to your contributions
 - 📫 How to reach me . On WhatsApp 09033731243
 
 <!---
